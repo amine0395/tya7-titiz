@@ -1,0 +1,11 @@
+.lol img{
+				width: 200px;
+}
+
+.lol{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+                gap: 3em;
+}
